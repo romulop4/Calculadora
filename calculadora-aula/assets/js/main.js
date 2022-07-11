@@ -27,6 +27,7 @@ function criaCalculadora() {
 
                 if (el.classList.contains('btn-num')) {
                     this.btnParaDisplay(el.innerText);
+                    this.display.focus();
                 }
 
                 if (el.classList.contains('btn-clear')) {
