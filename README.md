@@ -1,2 +1,4 @@
 # Calculadora
-Calculadora em HTML/JAVASCRIP/CSS
+Calculadora em HTML/JAVASCRIP/CSS 
+
+USANDO FACTORY FUNCTIONS
